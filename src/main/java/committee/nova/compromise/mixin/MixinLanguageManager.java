@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Map;
 
 @Mixin(LanguageManager.class)
-public class MixinLanguageManager {
+public abstract class MixinLanguageManager {
     @Shadow
     private String currentLanguage;
 

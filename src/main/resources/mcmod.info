@@ -2,7 +2,7 @@
   {
     "modid": "compromise",
     "name": "Compromise",
-    "description": "",
+    "description": "Adding Flexible Multilingual Support to Minecraft!",
     "version": "${version}",
     "mcversion": "1.12.2",
     "url": "",
