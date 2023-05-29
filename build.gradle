@@ -19,7 +19,7 @@ group = 'committee.nova.compromise.forge'
 version = '1.0.0'
 
 java {
-    archivesBaseName = 'Compromise-Forge-1.18.2'
+    archivesBaseName = 'Compromise-Forge-1.18.2-1.19.2'
     toolchain.languageVersion = JavaLanguageVersion.of(17)
 }
 
