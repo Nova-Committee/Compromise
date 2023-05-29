@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "committee.nova.compromise.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinLanguageManager"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "compromise.mixin-refmap.json",
+  "minVersion": "0.8"
+}
