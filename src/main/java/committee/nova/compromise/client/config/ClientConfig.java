@@ -16,7 +16,7 @@ public class ClientConfig {
         compromiseLocales = builder.comment(
                 "Put compromise language codes into the list, in the order you want.",
                 "Check https://minecraft.fandom.com/wiki/Language#Languages for language code reference."
-        ).define("compromise_languages", Lists.newArrayList("en_uk"));
+        ).define("compromise_languages", Lists.newArrayList("en_gb"));
         builder.pop();
         CFG = builder.build();
     }
