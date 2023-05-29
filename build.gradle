@@ -15,11 +15,11 @@ plugins {
 
 apply plugin: 'org.spongepowered.mixin'
 
-group = 'committee.nova'
+group = 'committee.nova.compromise.forge'
 version = '1.0.0'
 
 java {
-    archivesBaseName = 'compromise'
+    archivesBaseName = 'Compromise-Forge-1.16.5'
     toolchain.languageVersion = JavaLanguageVersion.of(8)
 }
 
