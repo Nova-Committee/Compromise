@@ -1,0 +1,9 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "GNU AGPL 3.0"
+[[mods]]
+modId = "compromise"
+version = "${file.jarVersion}"
+displayName = "Compromise"
+authors = "Tapio"
+description = "Adding Flexible Multilingual Support to Minecraft!"
