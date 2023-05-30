@@ -17,9 +17,6 @@ import java.util.Map;
 @Mixin(LanguageManager.class)
 public abstract class MixinLanguageManager {
     @Shadow
-    public abstract LanguageInfo getLanguage(String p_118977_);
-
-    @Shadow
     private String currentCode;
 
     @Shadow
